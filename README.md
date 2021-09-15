@@ -3,7 +3,7 @@
 
 ## 🌙 TMI
 
-- 게임, 주식을 좋아하는 개발자입니다 🎮 📈
+- 게임, 주식을 좋아하는 개발자 🎮 📈
 - 블로그 : <https://blog.naver.com/dlstngm> ✨
 - 이메일 : <dlstngm@naver.com> ✉
 
