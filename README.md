@@ -4,8 +4,8 @@
 ## 🌙 TMI
 
 - 취미: 🎮 📈
-- 블로그 : <https://blog.naver.com/dlstngm> ✨
-- 이메일 : <dlstngm@naver.com> ✉
+- 블로그: <https://blog.naver.com/dlstngm> ✨
+- 이메일: <dlstngm@naver.com> ✉
 
 ## 🌱 공부 중
 
